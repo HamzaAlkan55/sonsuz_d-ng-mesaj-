@@ -1,4 +1,4 @@
-Bu şaka dosyası size uyarılar vererek sonsuz döngü yapıyor bir şaka dosyası  
+Bu şaka dosyası size uyarılar vererek sonsuz döngü yapıyor bir şaka dosyası. Bu sadece Windows'ta çalışır.  
 ![image](https://github.com/user-attachments/assets/7dbefd8f-1d7d-425e-807f-1391cfb5e5f6) 
 
 ![image](https://github.com/user-attachments/assets/462f8ac4-eaba-4e7b-93f3-462a5baa90a1)
