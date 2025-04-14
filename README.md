@@ -3,4 +3,4 @@ Bu şaka dosyası size uyarılar vererek sonsuz döngü yapıyor bir şaka dosya
 
 ![image](https://github.com/user-attachments/assets/462f8ac4-eaba-4e7b-93f3-462a5baa90a1)
 
-böyle uyarılar veriyor bide bu sonsuz bunu başlatdıysanız durdurmak istiyorsanız başlata gelip "Görev Yöneticisi" yazıp "MsgBox" bulup görevi "sonlandır" tıklayın böylecene kapanacaktır.
+böyle uyarılar veriyor bide bu sonsuz bunu başlatdıysanız durdurmak istiyorsanız başlata gelip "Görev Yöneticisi" yazıp "Microsoft Windows  based script host" bulup görevi "sonlandır" tıklayın böylecene kapanacaktır.
